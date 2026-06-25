@@ -1,0 +1,31 @@
+export const exercises = [
+  { name: 'Push-up', muscle: 'Chest / triceps', equipment: 'Bodyweight', level: 'Beginner' },
+  { name: 'Incline push-up', muscle: 'Chest / triceps', equipment: 'Bodyweight', level: 'Beginner' },
+  { name: 'Dumbbell bench press', muscle: 'Chest', equipment: 'Dumbbells', level: 'Beginner' },
+  { name: 'Barbell bench press', muscle: 'Chest', equipment: 'Barbell', level: 'Intermediate' },
+  { name: 'Goblet squat', muscle: 'Quads / glutes', equipment: 'Dumbbell', level: 'Beginner' },
+  { name: 'Back squat', muscle: 'Quads / glutes', equipment: 'Barbell', level: 'Intermediate' },
+  { name: 'Romanian deadlift', muscle: 'Hamstrings / glutes', equipment: 'Barbell', level: 'Intermediate' },
+  { name: 'Lat pulldown', muscle: 'Lats', equipment: 'Machine', level: 'Beginner' },
+  { name: 'Pull-up', muscle: 'Back / biceps', equipment: 'Bodyweight', level: 'Intermediate' },
+  { name: 'One-arm dumbbell row', muscle: 'Back', equipment: 'Dumbbell', level: 'Beginner' },
+  { name: 'Dumbbell shoulder press', muscle: 'Shoulders', equipment: 'Dumbbells', level: 'Beginner' },
+  { name: 'Lateral raise', muscle: 'Side delts', equipment: 'Dumbbells', level: 'Beginner' },
+  { name: 'Biceps curl', muscle: 'Biceps', equipment: 'Dumbbells', level: 'Beginner' },
+  { name: 'Triceps pushdown', muscle: 'Triceps', equipment: 'Cable', level: 'Beginner' },
+  { name: 'Walking lunge', muscle: 'Quads / glutes', equipment: 'Bodyweight', level: 'Beginner' },
+  { name: 'Leg press', muscle: 'Quads', equipment: 'Machine', level: 'Beginner' },
+  { name: 'Calf raise', muscle: 'Calves', equipment: 'Bodyweight', level: 'Beginner' },
+  { name: 'Plank', muscle: 'Core', equipment: 'Bodyweight', level: 'Beginner' },
+  { name: 'Cable crunch', muscle: 'Abs', equipment: 'Cable', level: 'Beginner' },
+  { name: 'Hip thrust', muscle: 'Glutes', equipment: 'Barbell', level: 'Intermediate' },
+];
+
+export const injuryReasons = [
+  'Pain or injury',
+  'Too tired',
+  'No equipment',
+  'Too hard right now',
+  'Form feels wrong',
+  'Not enough time',
+];
